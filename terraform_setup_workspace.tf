@@ -3,5 +3,5 @@ variable username{
 default = "Gazal"
   }
 output printname{
-value = "Hello, {$var.username}"
+value = "Hello, ${var.username}"
 }
