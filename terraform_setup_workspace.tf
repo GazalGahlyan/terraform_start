@@ -1,4 +1,4 @@
-#this is just a beginning
+#Its just a beginning
 variable username{ 
 default = "Gazal"
   }
